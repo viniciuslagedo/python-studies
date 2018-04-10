@@ -1,6 +1,7 @@
 import time
 import webbrowser
 
+#Count X time and open google 3 times
 total_breaks = 3
 break_count = 0
 
